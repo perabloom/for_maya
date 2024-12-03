@@ -78,7 +78,7 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
-                <p className="text-gray-600">+1 (234) 567-8900</p>
+                <p className="text-gray-600">+1 (201) 486-2362</p>
                 <p className="text-gray-600">Monday to Friday, 8am to 6pm</p>
               </div>
             </div>
@@ -89,7 +89,7 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                <p className="text-gray-600">info@mayaremodeling.com</p>
+                <p className="text-gray-600">nalex1616@gmail.com</p>
                 <p className="text-gray-600">We'll respond within 24 hours</p>
               </div>
             </div>
@@ -100,8 +100,8 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Location</h3>
-                <p className="text-gray-600">123 Renovation Street</p>
-                <p className="text-gray-600">New York, NY 10001</p>
+                <p className="text-gray-600">223 Speedwell Ave</p>
+                <p className="text-gray-600">Morristown, NJ 07960</p>
               </div>
             </div>
 
