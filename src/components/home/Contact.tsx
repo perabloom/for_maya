@@ -37,8 +37,8 @@ export function Contact() {
 
     try {
       await emailjs.send(
-        'service_id', // Replace with your EmailJS service ID
-        'template_id', // Replace with your EmailJS template ID
+        'service_nrs9fc6', // Replace with your EmailJS service ID
+        'template_dtq682m', // Replace with your EmailJS template ID
         {
           to_email: 'nalex1616@gmail.com',
           from_name: `${formData.firstName} ${formData.lastName}`,
@@ -46,7 +46,7 @@ export function Contact() {
           phone: formData.phone,
           message: formData.message,
         },
-        'public_key' // Replace with your EmailJS public key
+        '4Ep2iZMFgFAWECNMk' // Replace with your EmailJS public key
       );
 
       toast.success('Message sent successfully!');
